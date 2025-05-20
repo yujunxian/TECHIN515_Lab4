@@ -6,8 +6,8 @@
 ```bash
 git clone https://github.com/yujunxian/TECHIN515-magic-wand.git
 cd TECHIN515-magic-wand
+```
 
---- 
 ### 2. Power On and Run the Device
 
 ```bash
