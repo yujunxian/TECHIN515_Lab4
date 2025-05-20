@@ -27,5 +27,5 @@ Each gesture is mapped to a distinct LED color for real-time visual feedback:
 - **O gesture** → Blue LED  
 - **V gesture** → Green LED
 
-> 💡 No connection to a computer is required.  
+> No connection to a computer is required.  
 
