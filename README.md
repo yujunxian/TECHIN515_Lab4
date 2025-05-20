@@ -44,4 +44,4 @@ Each gesture is mapped to a distinct LED color for real-time visual feedback:
 - The enclosure is a **3D-printed wand**.
 - **LED positions** are left open to allow clear visibility of classification feedback.
 - Powered by a **3.7V 1100mAh Li-ion battery**.
-- Final images of the enclosure are included in the **report.pdf** under the *Enclosure Design* section.
+- Final images of the enclosure are included in the ** Lab 4 report.pdf** under the *Enclosure Design* section.
