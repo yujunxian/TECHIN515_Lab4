@@ -7,18 +7,32 @@
 git clone https://github.com/yujunxian/TECHIN515-magic-wand.git
 cd TECHIN515-magic-wand
 
-### 2. Power On and Run
+--- 
+### 2. Power On and Run the Device
 
-Power on the device (via battery or USB). The three colored LEDs will blink twice, indicating that the device has successfully powered up and initialized.
+```bash
+git clone https://github.com/yujunxian/TECHIN515-magic-wand.git
+cd TECHIN515-magic-wand
 
-Press the button to start gesture recognition. Each recognition cycle lasts 1 second, after which the device waits for a new gesture input.
 
-LED color feedback:
 
-Z → Red LED
+Once the device is powered on (via battery or USB), it will automatically initialize. During initialization:
 
-O → Blue LED
+- All three LEDs (red, green, blue) will blink **twice** to indicate successful startup.
 
-V → Green LED
+After initialization:
 
-No computer connection is required. The device runs standalone and performs real-time classification using the pre-trained Edge Impulse model.
+- **Press the physical button** on the enclosure to start gesture recognition.
+- The device will then classify one gesture every **1 second**.
+- After classification, it automatically returns to standby mode and waits for the next input.
+
+### LED Color Feedback
+
+Each gesture is mapped to a distinct LED color for real-time visual feedback:
+
+- **Z gesture** → Red LED  
+- **O gesture** → Blue LED  
+- **V gesture** → Green LED
+
+> 💡 No connection to a computer is required.  
+
