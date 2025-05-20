@@ -29,3 +29,19 @@ Each gesture is mapped to a distinct LED color for real-time visual feedback:
 
 > No connection to a computer is required.  
 
+### 3. Demo Videos
+
+**Hardware Setup & Data Collection**  
+[https://youtu.be/GhjpjkJxGcE](https://youtu.be/GhjpjkJxGcE)
+
+**Real-Time Gesture Recognition**  
+[https://youtu.be/WJPpHfRTzHo](https://youtu.be/WJPpHfRTzHo)
+
+---
+
+### 4. Enclosure Design
+
+- The enclosure is a **3D-printed wand**.
+- **LED positions** are left open to allow clear visibility of classification feedback.
+- Powered by a **3.7V 1100mAh Li-ion battery**.
+- Final images of the enclosure are included in the **report.pdf** under the *Enclosure Design* section.
