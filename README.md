@@ -9,14 +9,7 @@ cd TECHIN515-magic-wand
 ```
 
 ### 2. Power On and Run the Device
-
-```bash
-git clone https://github.com/yujunxian/TECHIN515-magic-wand.git
-cd TECHIN515-magic-wand
-
-
-
-Once the device is powered on (via battery or USB), it will automatically initialize. During initialization:
+Once the device is powered on via battery, it will automatically initialize. During initialization:
 
 - All three LEDs (red, green, blue) will blink **twice** to indicate successful startup.
 
